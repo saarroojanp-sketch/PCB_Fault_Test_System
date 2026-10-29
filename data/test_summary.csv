@@ -1,0 +1,6 @@
+timestamp,fault_mode,overall_result,rail_5v_result,rail_3v3_result,diagnosis
+2026-10-29T11:50:00,NORMAL,PASS,PASS,PASS,No fault detected by current diagnostic rules
+2026-10-29T11:50:00,5V_LOW,FAIL,FAIL,FAIL,Possible 5V regulator fault or upstream problem
+2026-10-29T11:50:00,3V3_LOW,FAIL,PASS,FAIL,Possible 3.3V regulator or rail fault
+2026-10-29T11:50:00,SHORT_CIRCUIT,FAIL,FAIL,FAIL,Possible 5V rail short circuit or overload
+2026-10-29T11:50:00,OVERLOAD,FAIL,FAIL,FAIL,Possible 5V rail short circuit or overload

@@ -1,0 +1,20 @@
+limits:
+
+  input_voltage:
+    min: 11.5
+    max: 12.5
+
+  rail_5v:
+    min: 4.75
+    max: 5.25
+
+  rail_3v3:
+    min: 3.135
+    max: 3.465
+
+  current:
+    min: 0.0
+    max: 1.5
+
+
+    
